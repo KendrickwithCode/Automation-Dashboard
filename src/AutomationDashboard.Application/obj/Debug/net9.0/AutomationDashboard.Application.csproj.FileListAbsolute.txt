@@ -1,0 +1,15 @@
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/bin/Debug/net9.0/AutomationDashboard.Application.deps.json
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/bin/Debug/net9.0/AutomationDashboard.Application.dll
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/bin/Debug/net9.0/AutomationDashboard.Application.pdb
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/bin/Debug/net9.0/AutomationDashboard.Core.dll
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/bin/Debug/net9.0/AutomationDashboard.Core.pdb
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/obj/Debug/net9.0/AutomationDashboard.Application.csproj.AssemblyReference.cache
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/obj/Debug/net9.0/AutomationDashboard.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/obj/Debug/net9.0/AutomationDashboard.Application.AssemblyInfoInputs.cache
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/obj/Debug/net9.0/AutomationDashboard.Application.AssemblyInfo.cs
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/obj/Debug/net9.0/AutomationDashboard.Application.csproj.CoreCompileInputs.cache
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/obj/Debug/net9.0/Automati.93533B64.Up2Date
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/obj/Debug/net9.0/AutomationDashboard.Application.dll
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/obj/Debug/net9.0/refint/AutomationDashboard.Application.dll
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/obj/Debug/net9.0/AutomationDashboard.Application.pdb
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/obj/Debug/net9.0/ref/AutomationDashboard.Application.dll

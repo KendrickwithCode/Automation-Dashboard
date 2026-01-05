@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/AutomationDashboard.Blazor.props" />
+</Project>

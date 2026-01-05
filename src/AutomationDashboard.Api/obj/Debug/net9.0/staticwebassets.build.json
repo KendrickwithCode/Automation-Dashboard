@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4v/6P/fAxln8vvEWI0OvvnJH2wBoQix6lU2J0ke7R7c=",
+  "Source": "AutomationDashboard.Api",
+  "BasePath": "_content/AutomationDashboard.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
