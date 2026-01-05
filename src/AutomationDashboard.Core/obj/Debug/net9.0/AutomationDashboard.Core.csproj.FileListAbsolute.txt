@@ -1,0 +1,11 @@
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Core/bin/Debug/net9.0/AutomationDashboard.Core.deps.json
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Core/bin/Debug/net9.0/AutomationDashboard.Core.dll
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Core/bin/Debug/net9.0/AutomationDashboard.Core.pdb
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Core/obj/Debug/net9.0/AutomationDashboard.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Core/obj/Debug/net9.0/AutomationDashboard.Core.AssemblyInfoInputs.cache
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Core/obj/Debug/net9.0/AutomationDashboard.Core.AssemblyInfo.cs
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Core/obj/Debug/net9.0/AutomationDashboard.Core.csproj.CoreCompileInputs.cache
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Core/obj/Debug/net9.0/AutomationDashboard.Core.dll
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Core/obj/Debug/net9.0/refint/AutomationDashboard.Core.dll
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Core/obj/Debug/net9.0/AutomationDashboard.Core.pdb
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Core/obj/Debug/net9.0/ref/AutomationDashboard.Core.dll

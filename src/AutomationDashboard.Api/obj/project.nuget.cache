@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rfYqBx1jtC0=",
+  "success": true,
+  "projectFilePath": "/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Api/AutomationDashboard.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/jkendrick/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "/Users/jkendrick/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

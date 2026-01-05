@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "AutomationDashboard.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "AutomationDashboard.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AutomationDashboard.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AutomationDashboard.Application.dll": {}
+        }
+      },
+      "AutomationDashboard.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/AutomationDashboard.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AutomationDashboard.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutomationDashboard.Application/1.0.0": {
+      "type": "project",
+      "path": "../AutomationDashboard.Application/AutomationDashboard.Application.csproj",
+      "msbuildProject": "../AutomationDashboard.Application/AutomationDashboard.Application.csproj"
+    },
+    "AutomationDashboard.Core/1.0.0": {
+      "type": "project",
+      "path": "../AutomationDashboard.Core/AutomationDashboard.Core.csproj",
+      "msbuildProject": "../AutomationDashboard.Core/AutomationDashboard.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "AutomationDashboard.Application >= 1.0.0",
+      "AutomationDashboard.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/jkendrick/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Infrastructure/AutomationDashboard.Infrastructure.csproj",
+      "projectName": "AutomationDashboard.Infrastructure",
+      "projectPath": "/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Infrastructure/AutomationDashboard.Infrastructure.csproj",
+      "packagesPath": "/Users/jkendrick/.nuget/packages/",
+      "outputPath": "/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Infrastructure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/jkendrick/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/AutomationDashboard.Application.csproj": {
+              "projectPath": "/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/AutomationDashboard.Application.csproj"
+            },
+            "/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Core/AutomationDashboard.Core.csproj": {
+              "projectPath": "/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Core/AutomationDashboard.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.201/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
