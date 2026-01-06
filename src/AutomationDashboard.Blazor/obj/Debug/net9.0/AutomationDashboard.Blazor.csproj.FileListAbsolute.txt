@@ -41,3 +41,10 @@
 /Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Blazor/obj/Debug/net9.0/AutomationDashboard.Blazor.pdb
 /Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Blazor/obj/Debug/net9.0/AutomationDashboard.Blazor.genruntimeconfig.cache
 /Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Blazor/obj/Debug/net9.0/ref/AutomationDashboard.Blazor.dll
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Blazor/bin/Debug/net9.0/AutomationDashboard.Application.dll
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Blazor/bin/Debug/net9.0/AutomationDashboard.Core.dll
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Blazor/bin/Debug/net9.0/AutomationDashboard.Application.pdb
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Blazor/bin/Debug/net9.0/AutomationDashboard.Core.pdb
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Blazor/obj/Debug/net9.0/AutomationDashboard.Blazor.csproj.AssemblyReference.cache
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Blazor/obj/Debug/net9.0/AutomationDashboard.Blazor.sourcelink.json
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Blazor/obj/Debug/net9.0/Automati.5261597D.Up2Date

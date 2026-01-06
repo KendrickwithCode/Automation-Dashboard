@@ -13,3 +13,4 @@
 /Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/obj/Debug/net9.0/refint/AutomationDashboard.Application.dll
 /Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/obj/Debug/net9.0/AutomationDashboard.Application.pdb
 /Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/obj/Debug/net9.0/ref/AutomationDashboard.Application.dll
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Application/obj/Debug/net9.0/AutomationDashboard.Application.sourcelink.json

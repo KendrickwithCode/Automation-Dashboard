@@ -37,3 +37,4 @@
 /Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Api/obj/Debug/net9.0/AutomationDashboard.Api.pdb
 /Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Api/obj/Debug/net9.0/AutomationDashboard.Api.genruntimeconfig.cache
 /Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Api/obj/Debug/net9.0/ref/AutomationDashboard.Api.dll
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Api/obj/Debug/net9.0/AutomationDashboard.Api.sourcelink.json

@@ -15,3 +15,4 @@
 /Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Infrastructure/obj/Debug/net9.0/refint/AutomationDashboard.Infrastructure.dll
 /Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Infrastructure/obj/Debug/net9.0/AutomationDashboard.Infrastructure.pdb
 /Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Infrastructure/obj/Debug/net9.0/ref/AutomationDashboard.Infrastructure.dll
+/Users/jkendrick/Desktop/Github/AutomationDashboard/src/AutomationDashboard.Infrastructure/obj/Debug/net9.0/AutomationDashboard.Infrastructure.sourcelink.json

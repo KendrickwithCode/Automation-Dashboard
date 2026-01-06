@@ -7,8 +7,6 @@ public class TestCase
     public string Selector { get; private set; } // Playwright test ID
     public bool IsAutomated { get; private set; }
 
-    protected TestCase() { }
-
     public TestCase(string name, string selector, bool isAutomated)
     {
         Id = Guid.NewGuid();
